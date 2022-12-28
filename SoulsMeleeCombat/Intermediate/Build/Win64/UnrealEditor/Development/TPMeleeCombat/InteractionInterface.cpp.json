@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\player\\interactioninterface.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\tpmeleecombateditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\development\\tpmeleecombat\\definitions.tpmeleecombat.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\player\\interactioninterface.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\inc\\tpmeleecombat\\interactioninterface.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

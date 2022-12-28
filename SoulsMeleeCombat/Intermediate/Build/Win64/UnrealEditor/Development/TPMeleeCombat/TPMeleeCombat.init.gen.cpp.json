@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\inc\\tpmeleecombat\\tpmeleecombat.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\tpmeleecombateditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\development\\tpmeleecombat\\definitions.tpmeleecombat.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

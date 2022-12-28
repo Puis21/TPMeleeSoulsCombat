@@ -1,0 +1,11 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\GenTl\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\GenTl\OneDrive\Documents\GitHub\TPMeleeCombat).
+  Building TPMeleeCombatEditor...
+  Using Visual Studio 2022 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+    Executing up to 8 processes, one per physical core
+  Building 1 action with 1 process...
+  [1/1] WriteMetadata TPMeleeCombatEditor.target
+  Total time in Parallel executor: 0.18 seconds
+  Total execution time: 0.69 seconds

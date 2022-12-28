@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\components\\combatcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\tpmeleecombateditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\development\\tpmeleecombat\\definitions.tpmeleecombat.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\components\\combatcomponent.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\inc\\tpmeleecombat\\combatcomponent.generated.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\player\\weapons\\baseweapon.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\player\\weapons\\baseequipable.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\inc\\tpmeleecombat\\baseequipable.generated.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\player\\charactertype.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\inc\\tpmeleecombat\\baseweapon.generated.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\player\\playeraniminstace.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\player\\animinstanceinterface.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\inc\\tpmeleecombat\\animinstanceinterface.generated.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\inc\\tpmeleecombat\\playeraniminstace.generated.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\player\\tpmeleecombatplayer.h",
+            "c:\\ue_5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\ue_5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\ue_5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\ue_5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\ue_5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\ue_5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\player\\interactioninterface.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\inc\\tpmeleecombat\\interactioninterface.generated.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\player\\combatinterface.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\inc\\tpmeleecombat\\combatinterface.generated.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\inc\\tpmeleecombat\\tpmeleecombatplayer.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TPMeleeCombat",
+			"Path": "C:\\Users\\GenTl\\OneDrive\\Documents\\GitHub\\TPMeleeCombat\\SoulsMeleeCombat\\Source\\TPMeleeCombat.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TPMeleeCombatEditor",
+			"Path": "C:\\Users\\GenTl\\OneDrive\\Documents\\GitHub\\TPMeleeCombat\\SoulsMeleeCombat\\Source\\TPMeleeCombatEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

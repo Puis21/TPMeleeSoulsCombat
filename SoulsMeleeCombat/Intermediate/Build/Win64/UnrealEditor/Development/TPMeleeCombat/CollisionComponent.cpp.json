@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\components\\collisioncomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\tpmeleecombateditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\development\\tpmeleecombat\\definitions.tpmeleecombat.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\components\\collisioncomponent.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\inc\\tpmeleecombat\\collisioncomponent.generated.h",
+            "c:\\ue_5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\ue_5\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\ue_5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

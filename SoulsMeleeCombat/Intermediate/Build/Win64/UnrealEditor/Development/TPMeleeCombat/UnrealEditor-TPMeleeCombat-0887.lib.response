@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TPMeleeCombat-0887.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\GenTl\OneDrive\Documents\GitHub\TPMeleeCombat\SoulsMeleeCombat\Intermediate\Build\Win64\TPMeleeCombatEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\GenTl\OneDrive\Documents\GitHub\TPMeleeCombat\SoulsMeleeCombat\Intermediate\Build\Win64\UnrealEditor\Development\TPMeleeCombat\Module.TPMeleeCombat.cpp.obj"
+"C:\Users\GenTl\OneDrive\Documents\GitHub\TPMeleeCombat\SoulsMeleeCombat\Intermediate\Build\Win64\UnrealEditor\Development\TPMeleeCombat\Module.TPMeleeCombat.gen.cpp.obj"
+"C:\Users\GenTl\OneDrive\Documents\GitHub\TPMeleeCombat\SoulsMeleeCombat\Intermediate\Build\Win64\UnrealEditor\Development\TPMeleeCombat\Default.rc2.res"
+/OUT:"C:\Users\GenTl\OneDrive\Documents\GitHub\TPMeleeCombat\SoulsMeleeCombat\Intermediate\Build\Win64\UnrealEditor\Development\TPMeleeCombat\UnrealEditor-TPMeleeCombat-0887.lib"

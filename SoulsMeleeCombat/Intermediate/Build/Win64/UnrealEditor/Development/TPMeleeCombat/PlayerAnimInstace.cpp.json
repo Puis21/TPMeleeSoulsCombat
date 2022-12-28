@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\player\\playeraniminstace.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\tpmeleecombateditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\development\\tpmeleecombat\\definitions.tpmeleecombat.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\player\\playeraniminstace.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\player\\animinstanceinterface.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\inc\\tpmeleecombat\\animinstanceinterface.generated.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\inc\\tpmeleecombat\\playeraniminstace.generated.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\player\\weapons\\baseweapon.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\player\\weapons\\baseequipable.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\inc\\tpmeleecombat\\baseequipable.generated.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\source\\tpmeleecombat\\player\\charactertype.h",
+            "c:\\users\\gentl\\onedrive\\documents\\github\\tpmeleecombat\\soulsmeleecombat\\intermediate\\build\\win64\\unrealeditor\\inc\\tpmeleecombat\\baseweapon.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

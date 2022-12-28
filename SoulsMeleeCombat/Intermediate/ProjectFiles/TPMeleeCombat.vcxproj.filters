@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TPMeleeCombat.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TPMeleeCombat.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TPMeleeCombatEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\TPMeleeCombat">
+      <UniqueIdentifier>{30A46581-502D-3BB8-9E0B-AF27663ACC6E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TPMeleeCombat\TPMeleeCombat.Build.cs">
+      <Filter>Source\TPMeleeCombat</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\TPMeleeCombat.cpp">
+      <Filter>Source\TPMeleeCombat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\TPMeleeCombat.h">
+      <Filter>Source\TPMeleeCombat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\TPMeleeCombatCharacter.cpp">
+      <Filter>Source\TPMeleeCombat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\TPMeleeCombatCharacter.h">
+      <Filter>Source\TPMeleeCombat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\TPMeleeCombatGameMode.cpp">
+      <Filter>Source\TPMeleeCombat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\TPMeleeCombatGameMode.h">
+      <Filter>Source\TPMeleeCombat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\TPMeleeGameMode.cpp">
+      <Filter>Source\TPMeleeCombat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\TPMeleeGameMode.h">
+      <Filter>Source\TPMeleeCombat</Filter>
+    </ClInclude>
+    <Filter Include="Source\TPMeleeCombat\AI">
+      <UniqueIdentifier>{403109FD-4A75-38CC-9D45-FE5483D8DB4C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\AI\BTT_PerformAction.cpp">
+      <Filter>Source\TPMeleeCombat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\AI\BTT_PerformAction.h">
+      <Filter>Source\TPMeleeCombat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\AI\BTT_PerformAttack.cpp">
+      <Filter>Source\TPMeleeCombat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\AI\BTT_PerformAttack.h">
+      <Filter>Source\TPMeleeCombat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\AI\MasterAI.cpp">
+      <Filter>Source\TPMeleeCombat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\AI\MasterAI.h">
+      <Filter>Source\TPMeleeCombat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\AI\MasterAIController.cpp">
+      <Filter>Source\TPMeleeCombat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\AI\MasterAIController.h">
+      <Filter>Source\TPMeleeCombat\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\TPMeleeCombat\AI\Services">
+      <UniqueIdentifier>{8159CDD9-FDD6-3437-9800-AEFF5CE175A4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\AI\Services\BTS_UpdateBehavior.cpp">
+      <Filter>Source\TPMeleeCombat\AI\Services</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\AI\Services\BTS_UpdateBehavior.h">
+      <Filter>Source\TPMeleeCombat\AI\Services</Filter>
+    </ClInclude>
+    <Filter Include="Source\TPMeleeCombat\Components">
+      <UniqueIdentifier>{62A08D3F-1D57-3403-B75D-C1EC3E4DDDDA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Components\CollisionComponent.cpp">
+      <Filter>Source\TPMeleeCombat\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Components\CollisionComponent.h">
+      <Filter>Source\TPMeleeCombat\Components</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Components\CombatComponent.cpp">
+      <Filter>Source\TPMeleeCombat\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Components\CombatComponent.h">
+      <Filter>Source\TPMeleeCombat\Components</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Components\StateManagerComponent.cpp">
+      <Filter>Source\TPMeleeCombat\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Components\StateManagerComponent.h">
+      <Filter>Source\TPMeleeCombat\Components</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Components\StatsComponent.cpp">
+      <Filter>Source\TPMeleeCombat\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Components\StatsComponent.h">
+      <Filter>Source\TPMeleeCombat\Components</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Components\TargetingComponent.cpp">
+      <Filter>Source\TPMeleeCombat\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Components\TargetingComponent.h">
+      <Filter>Source\TPMeleeCombat\Components</Filter>
+    </ClInclude>
+    <Filter Include="Source\TPMeleeCombat\Interactables">
+      <UniqueIdentifier>{EFE9F57C-8437-3C5D-BCE6-1E2A0030E751}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Interactables\PickUpActor.cpp">
+      <Filter>Source\TPMeleeCombat\Interactables</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Interactables\PickUpActor.h">
+      <Filter>Source\TPMeleeCombat\Interactables</Filter>
+    </ClInclude>
+    <Filter Include="Source\TPMeleeCombat\Player">
+      <UniqueIdentifier>{C8DB8371-5B44-3179-8217-22DD782864C6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\AnimInstanceInterface.cpp">
+      <Filter>Source\TPMeleeCombat\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\AnimInstanceInterface.h">
+      <Filter>Source\TPMeleeCombat\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\CharacterType.h">
+      <Filter>Source\TPMeleeCombat\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\CombatInterface.cpp">
+      <Filter>Source\TPMeleeCombat\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\CombatInterface.h">
+      <Filter>Source\TPMeleeCombat\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\CombatPlayerController.cpp">
+      <Filter>Source\TPMeleeCombat\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\CombatPlayerController.h">
+      <Filter>Source\TPMeleeCombat\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\InteractionInterface.cpp">
+      <Filter>Source\TPMeleeCombat\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\InteractionInterface.h">
+      <Filter>Source\TPMeleeCombat\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\PlayerAnimInstace.cpp">
+      <Filter>Source\TPMeleeCombat\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\PlayerAnimInstace.h">
+      <Filter>Source\TPMeleeCombat\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\TargetinInterface.cpp">
+      <Filter>Source\TPMeleeCombat\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\TargetinInterface.h">
+      <Filter>Source\TPMeleeCombat\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\TPMeleeCombatPlayer.cpp">
+      <Filter>Source\TPMeleeCombat\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\TPMeleeCombatPlayer.h">
+      <Filter>Source\TPMeleeCombat\Player</Filter>
+    </ClInclude>
+    <Filter Include="Source\TPMeleeCombat\Player\Notifies">
+      <UniqueIdentifier>{CD5A2030-205F-3E9B-9516-EC4EA6E77E8E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\Notifies\NotifyState_CollisionTrace.cpp">
+      <Filter>Source\TPMeleeCombat\Player\Notifies</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\Notifies\NotifyState_CollisionTrace.h">
+      <Filter>Source\TPMeleeCombat\Player\Notifies</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\Notifies\NotifyState_EnableIFrames.cpp">
+      <Filter>Source\TPMeleeCombat\Player\Notifies</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\Notifies\NotifyState_EnableIFrames.h">
+      <Filter>Source\TPMeleeCombat\Player\Notifies</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\Notifies\NotifyState_RotateCharacter.cpp">
+      <Filter>Source\TPMeleeCombat\Player\Notifies</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\Notifies\NotifyState_RotateCharacter.h">
+      <Filter>Source\TPMeleeCombat\Player\Notifies</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\Notifies\Notify_AttachWeapon.cpp">
+      <Filter>Source\TPMeleeCombat\Player\Notifies</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\Notifies\Notify_AttachWeapon.h">
+      <Filter>Source\TPMeleeCombat\Player\Notifies</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\Notifies\Notify_ContinueAttack.cpp">
+      <Filter>Source\TPMeleeCombat\Player\Notifies</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\Notifies\Notify_ContinueAttack.h">
+      <Filter>Source\TPMeleeCombat\Player\Notifies</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\Notifies\Notify_ResetAttack.cpp">
+      <Filter>Source\TPMeleeCombat\Player\Notifies</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\Notifies\Notify_ResetAttack.h">
+      <Filter>Source\TPMeleeCombat\Player\Notifies</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\Notifies\Notify_ResetCombat.cpp">
+      <Filter>Source\TPMeleeCombat\Player\Notifies</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\Notifies\Notify_ResetCombat.h">
+      <Filter>Source\TPMeleeCombat\Player\Notifies</Filter>
+    </ClInclude>
+    <Filter Include="Source\TPMeleeCombat\Player\Weapons">
+      <UniqueIdentifier>{6A40A467-AE2F-3196-AD1E-6923EA4B59B0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\Weapons\BaseDualWeapon.cpp">
+      <Filter>Source\TPMeleeCombat\Player\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\Weapons\BaseDualWeapon.h">
+      <Filter>Source\TPMeleeCombat\Player\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\Weapons\BaseEquipable.cpp">
+      <Filter>Source\TPMeleeCombat\Player\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\Weapons\BaseEquipable.h">
+      <Filter>Source\TPMeleeCombat\Player\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\Weapons\BaseShield.cpp">
+      <Filter>Source\TPMeleeCombat\Player\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\Weapons\BaseShield.h">
+      <Filter>Source\TPMeleeCombat\Player\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\Weapons\BaseWeapon.cpp">
+      <Filter>Source\TPMeleeCombat\Player\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\Weapons\BaseWeapon.h">
+      <Filter>Source\TPMeleeCombat\Player\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\Weapons\GreatSword.cpp">
+      <Filter>Source\TPMeleeCombat\Player\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\Weapons\GreatSword.h">
+      <Filter>Source\TPMeleeCombat\Player\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\Weapons\MasterPose.cpp">
+      <Filter>Source\TPMeleeCombat\Player\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\Weapons\MasterPose.h">
+      <Filter>Source\TPMeleeCombat\Player\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\Weapons\Sword.cpp">
+      <Filter>Source\TPMeleeCombat\Player\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\Weapons\Sword.h">
+      <Filter>Source\TPMeleeCombat\Player\Weapons</Filter>
+    </ClInclude>
+    <Filter Include="Source\TPMeleeCombat\Player\Weapons\DamageType">
+      <UniqueIdentifier>{A4938AD3-7032-3E44-A7C6-38F5A4EA1866}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\Player\Weapons\DamageType\AttackDamageType.cpp">
+      <Filter>Source\TPMeleeCombat\Player\Weapons\DamageType</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\Player\Weapons\DamageType\AttackDamageType.h">
+      <Filter>Source\TPMeleeCombat\Player\Weapons\DamageType</Filter>
+    </ClInclude>
+    <Filter Include="Source\TPMeleeCombat\UI">
+      <UniqueIdentifier>{CB97EE0D-EF90-34DB-8333-B6F9EBD547F4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TPMeleeCombat\UI\CharacterOverlay.cpp">
+      <Filter>Source\TPMeleeCombat\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPMeleeCombat\UI\CharacterOverlay.h">
+      <Filter>Source\TPMeleeCombat\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
